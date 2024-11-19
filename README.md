@@ -219,17 +219,17 @@ https://drive.google.com/drive/folders/1fdNvyTpTAPEKfL-fzqJbzyR3yTY0g1Fl?usp=sha
 
 ### F1_Curve
 
-### P_Curve
-
 ![F1_curve](https://github.com/user-attachments/assets/9878a91a-7057-4846-8b44-90656fdf601a)
+
+### P_Curve
 
 ![P_curve](https://github.com/user-attachments/assets/a14cf5cf-0755-48a2-b0f2-81fa513547cb)
 
 ### PR_Curve
 
-### R_Curve
-
 ![PR_curve](https://github.com/user-attachments/assets/450daf26-5e2c-437a-83b2-1ce3e5a8a824)
+
+### R_Curve
 
 ![R_curve](https://github.com/user-attachments/assets/bbe85cb7-bb51-43ce-8b68-d74259367a5d)
 
@@ -239,9 +239,9 @@ https://drive.google.com/drive/folders/1fdNvyTpTAPEKfL-fzqJbzyR3yTY0g1Fl?usp=sha
 
 ### train_batch
 
-### val_batch
-
 ![train_batch0](https://github.com/user-attachments/assets/b765e1ab-8f56-4959-b3f3-3310a504c62f)
+
+### val_batch
 
 ![val_batch0_labels](https://github.com/user-attachments/assets/7d7dbb82-3068-4497-a452-3787846fe8a1)
 
@@ -270,7 +270,9 @@ https://drive.google.com/drive/folders/1fdNvyTpTAPEKfL-fzqJbzyR3yTY0g1Fl?usp=sha
 
 ![val_batch0_pred](https://github.com/user-attachments/assets/27ce7ab3-fb1d-4771-a9e1-414f24d51ae8)
 
+
 ![val_batch2_pred](https://github.com/user-attachments/assets/00fb3e7d-59b9-408f-bebe-379e7a1461c8)
+
 
 ![val_batch1_pred](https://github.com/user-attachments/assets/2bc3d954-8b53-44ba-9770-4f41af9bf183)
 
